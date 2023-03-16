@@ -22,9 +22,11 @@ Gratefully looking for opportunities to work alongside inspiring people through 
   
 
 <br/>  
+<br/>
+<br/>
 
 
-## Rapidfire  
+<!-- ## Rapidfire   -->
 <table><tr><td valign="top" width="500em">
 
 - 🔭 I’m currently working on my project [Hello World]  
