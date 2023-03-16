@@ -25,7 +25,7 @@ Gratefully looking for opportunities to work alongside inspiring people through 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="500em">
 
 - 🔭 I’m currently working on my project [Hello World]  
   
@@ -33,11 +33,7 @@ Gratefully looking for opportunities to work alongside inspiring people through 
 - 🌱 I’m currently learning Python  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 
