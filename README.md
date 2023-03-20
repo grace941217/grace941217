@@ -1,4 +1,4 @@
-## Hi, I'm Grace!🙂  
+## Hi, I'm Grace! 🙂  
   
 
 <a href="https://linkedin.com/in/grace-kim1217" target="_blank">
