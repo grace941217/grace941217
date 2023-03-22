@@ -13,7 +13,7 @@
 
 ### -  
 
-I am a passionate programmer who is determined to move forward everyday. Willing to take challenges to grow for greater purpose. 
+Waiting for that one opportunity which will help me prove that here is one of the top hires. I am a passionate programmer who is determined to move forward everyday. Willing to take challenges to grow for greater purpose. 
 I am a fast learner with strong skills in active listening, creativity and persistence. 
 Background in biology as a nursing major and gained hospitality experiences in the food industry while in college. 
 
@@ -29,7 +29,7 @@ Gratefully looking for opportunities to work alongside inspiring people through 
 <!-- ## Rapidfire   -->
 <table><tr><td valign="top" width="500em">
 
-- 🔭 I’m currently working on my project [Hello World]  
+- 🔭 I’m currently working on a project to create a social networking website  
   
 
 - 🌱 I’m currently learning Python  
