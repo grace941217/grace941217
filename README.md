@@ -29,7 +29,7 @@ Gratefully looking for opportunities to work alongside inspiring people through 
 <!-- ## Rapidfire   -->
 <table><tr><td valign="top" width="500em">
 
-- 🔭 I’m currently working on a project to create a social networking website  
+- 💻 I’m currently working on a project to create a social networking website  
   
 
 - 🌱 I’m currently learning Python  
