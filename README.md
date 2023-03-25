@@ -34,7 +34,7 @@ Gratefully looking for opportunities to work alongside inspiring people through 
 - 💻 I’m currently working on a project to create a social networking website  
   
 
-- 🌱 I’m currently learning Python  
+- 🌱 I’m currently focusing on learning Python  
 
 
 </table>  
