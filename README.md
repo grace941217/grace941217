@@ -30,9 +30,6 @@ Gratefully looking for opportunities to work alongside inspiring people through 
 
 
 
-<br/>  
-
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -44,18 +41,7 @@ Gratefully looking for opportunities to work alongside inspiring people through 
 
 </td></tr></table>  
 
-<br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
 
